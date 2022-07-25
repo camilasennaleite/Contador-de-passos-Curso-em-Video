@@ -26,6 +26,7 @@ header {
 .botao:hover {
     background-color: #4CAF50; /* Green */
     color: white;
+    cursor: pointer;
   }
 div#dados {
     text-align: center;
